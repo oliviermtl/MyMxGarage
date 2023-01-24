@@ -1,0 +1,335 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text renders HyperlinkText Snapshot 1`] = `
+<View
+  injectViewProps={[Function]}
+>
+  <Text
+    align="left"
+    color="#222732"
+    fontFamily={null}
+    marginTop={0}
+    numberOfLines={null}
+    paddingHorizontal={0}
+    paddingLeft={0}
+    style={
+      Array [
+        Object {
+          "color": "#222732",
+          "fontFamily": "Mulish-Regular",
+          "fontSize": 28,
+          "lineHeight": 40,
+          "marginTop": 0,
+          "textAlign": "left",
+          "width": "100%",
+        },
+        Object {},
+      ]
+    }
+    testID="text"
+  />
+</View>
+`;
+
+exports[`Text renders PatternStyledText Snapshot 1`] = `
+<View
+  onPress={null}
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+  testID="pattern"
+>
+  <Text
+    color="#000"
+    style={
+      Array [
+        Object {
+          "color": "#000",
+          "fontFamily": "Mulish-Regular",
+          "fontSize": 28,
+          "letterSpacing": 0.2,
+          "textAlign": "center",
+        },
+        Object {},
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`Text renders Text C1 1`] = `
+<Text
+  align="left"
+  color="#0D1119"
+  fontFamily={null}
+  marginTop={0}
+  numberOfLines={null}
+  paddingHorizontal={0}
+  paddingLeft={0}
+  style={
+    Array [
+      Object {
+        "color": "#0D1119",
+        "fontFamily": "Mulish-Regular",
+        "fontSize": 26,
+        "lineHeight": 36,
+        "marginTop": 0,
+        "textAlign": "left",
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+  testID="text"
+/>
+`;
+
+exports[`Text renders Text Snapshot 1`] = `
+<Text
+  align="left"
+  color="#0D1119"
+  fontFamily={null}
+  marginTop={0}
+  numberOfLines={null}
+  paddingHorizontal={0}
+  paddingLeft={0}
+  style={
+    Array [
+      Object {
+        "color": "#0D1119",
+        "fontFamily": "Mulish-Regular",
+        "fontSize": 32,
+        "lineHeight": 44,
+        "marginTop": 0,
+        "textAlign": "left",
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+  testID="text"
+/>
+`;
+
+exports[`Text renders Text with align default 1`] = `
+<Text
+  align={null}
+  color="#0D1119"
+  fontFamily={null}
+  marginTop={0}
+  numberOfLines={null}
+  paddingHorizontal={0}
+  paddingLeft={0}
+  style={
+    Array [
+      Object {
+        "color": "#0D1119",
+        "fontFamily": "Mulish-Regular",
+        "fontSize": 32,
+        "lineHeight": 44,
+        "marginTop": 0,
+        "textAlign": "",
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+  testID="text"
+/>
+`;
+
+exports[`Text renders Text with align right 1`] = `
+<Text
+  align="right"
+  color="#0D1119"
+  fontFamily={null}
+  marginTop={0}
+  numberOfLines={null}
+  paddingHorizontal={0}
+  paddingLeft={0}
+  style={
+    Array [
+      Object {
+        "color": "#0D1119",
+        "fontFamily": "Mulish-Regular",
+        "fontSize": 32,
+        "lineHeight": 44,
+        "marginTop": 0,
+        "textAlign": "right",
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+  testID="text"
+/>
+`;
+
+exports[`Text renders Text with color black 1`] = `
+<Text
+  align="left"
+  color="black"
+  fontFamily={null}
+  marginTop={0}
+  numberOfLines={null}
+  paddingHorizontal={0}
+  paddingLeft={0}
+  style={
+    Array [
+      Object {
+        "color": "black",
+        "fontFamily": "Mulish-Regular",
+        "fontSize": 32,
+        "lineHeight": 44,
+        "marginTop": 0,
+        "textAlign": "left",
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+  testID="text"
+/>
+`;
+
+exports[`Text renders Text with color default 1`] = `
+<Text
+  align="left"
+  color={null}
+  fontFamily={null}
+  marginTop={0}
+  numberOfLines={null}
+  paddingHorizontal={0}
+  paddingLeft={0}
+  style={
+    Array [
+      Object {
+        "color": "",
+        "fontFamily": "Mulish-Regular",
+        "fontSize": 32,
+        "lineHeight": 44,
+        "marginTop": 0,
+        "textAlign": "left",
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+  testID="text"
+/>
+`;
+
+exports[`Text renders Text with margin Top 32 1`] = `
+<Text
+  align="left"
+  color="#0D1119"
+  fontFamily={null}
+  marginTop={32}
+  numberOfLines={null}
+  paddingHorizontal={0}
+  paddingLeft={0}
+  style={
+    Array [
+      Object {
+        "color": "#0D1119",
+        "fontFamily": "Mulish-Regular",
+        "fontSize": 32,
+        "lineHeight": 44,
+        "marginTop": 32,
+        "textAlign": "left",
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+  testID="text"
+/>
+`;
+
+exports[`Text renders Text with paddingHorizontal 16 1`] = `
+<Text
+  align="left"
+  color="#0D1119"
+  fontFamily={null}
+  marginTop={0}
+  numberOfLines={null}
+  paddingHorizontal={16}
+  paddingLeft={0}
+  style={
+    Array [
+      Object {
+        "color": "#0D1119",
+        "fontFamily": "Mulish-Regular",
+        "fontSize": 32,
+        "lineHeight": 44,
+        "marginTop": 0,
+        "paddingLeft": 16,
+        "paddingRight": 16,
+        "textAlign": "left",
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+  testID="text"
+/>
+`;
+
+exports[`Text renders Text with paddingLeft 16 1`] = `
+<Text
+  align="left"
+  color="#0D1119"
+  fontFamily={null}
+  marginTop={0}
+  numberOfLines={null}
+  paddingHorizontal={0}
+  paddingLeft={16}
+  style={
+    Array [
+      Object {
+        "color": "#0D1119",
+        "fontFamily": "Mulish-Regular",
+        "fontSize": 32,
+        "lineHeight": 44,
+        "marginTop": 0,
+        "paddingLeft": 16,
+        "textAlign": "left",
+        "width": "100%",
+      },
+      Object {},
+    ]
+  }
+  testID="text"
+/>
+`;
+
+exports[`Text renders Text with width null 1`] = `
+<Text
+  align="left"
+  color="#0D1119"
+  fontFamily={null}
+  marginTop={0}
+  numberOfLines={null}
+  paddingHorizontal={0}
+  paddingLeft={0}
+  style={
+    Array [
+      Object {
+        "color": "#0D1119",
+        "fontFamily": "Mulish-Regular",
+        "fontSize": 32,
+        "lineHeight": 44,
+        "marginTop": 0,
+        "textAlign": "left",
+        "width": "auto",
+      },
+      Object {},
+    ]
+  }
+  testID="text"
+  width={null}
+/>
+`;

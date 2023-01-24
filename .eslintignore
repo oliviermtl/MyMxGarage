@@ -1,0 +1,8 @@
+coverage
+android/app/build/intermediates
+setup-tests.js
+scripts/create-component.js
+scripts/create-container.js
+e2e/features/step_definitions/bookService/notifWebSocketHomeVisitSteps.js
+e2e/features/step_definitions/bookService/notifWebSocketNurseVisitSteps.js
+e2e/features/step_definitions/chat/chatSteps.js
